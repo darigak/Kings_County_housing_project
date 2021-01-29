@@ -21,11 +21,11 @@ The goal is to create a model that best predicts the prices of homes sold in the
 
 
 <p align="center">
-   <img width="460" height="400" src=images/correlation.png>
+   <img width="700" height="700" src=images/correlation.png>
 </p> 
 
 <p align="center">
-   <img width="460" height="1000" src=images/VIF.png>
+   <img width="250" height="500" src=images/VIF.png>
 </p> 
 
 
