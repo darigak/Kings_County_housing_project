@@ -23,7 +23,7 @@ The goal is to create a model that best predicts the prices of homes sold in the
 Begin analysis by reviewing correlation matrix between the dataset columns. With the threshold of 0.8, we can see that 'sqft_above' column is correlated with 'sqft_living' and can be removed from our analysis.
 
 <p align="center">
-   <img width="700" height="700" src=images/correlation.png>
+   <img width="900" height="700" src=images/correlation.png>
 </p> 
 
 To account for extreme values, we need to cap the following columns:
